@@ -1,3 +1,7 @@
+# Models
+
+models/*
+
 # Tweet data
 
 src/model_creation/data/*

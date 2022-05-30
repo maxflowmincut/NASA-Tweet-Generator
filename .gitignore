@@ -1,6 +1,6 @@
 # Tweet data
 
-data/*
+src/model_creation/data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

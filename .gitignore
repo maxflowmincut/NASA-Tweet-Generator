@@ -1,6 +1,7 @@
 # Models
 
 models/*
+src/model_display/model.h5
 
 # Tweet data
 

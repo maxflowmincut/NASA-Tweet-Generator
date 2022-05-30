@@ -43,7 +43,7 @@ def main():
     tweets = get_tweets(api, "NASA", 70000)
     df = create_dataframe(data=tweets, columns=['Tweet'])
 
-    create_csv(df, "data/data.csv")
+    create_csv(df, "src/model_creation/data/data.csv")
 
 
 if __name__ == "__main__":

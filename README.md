@@ -8,7 +8,7 @@
 
 #
 <center>
-    <img src="src/assets/example.png" alt="Example of Program">
+    <img src="src/assets/example.PNG" alt="Example of Program">
 </center>
 
 

@@ -11,6 +11,7 @@
 # Technologies used
 
 - [Tensorflow](https://www.tensorflow.org/)
+- [PyQt5](https://pypi.org/project/PyQt5/)
 - [Numpy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Tweepy](https://www.tweepy.org/)

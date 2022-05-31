@@ -10,6 +10,7 @@ class MainWindow(qtw.QWidget):
 
         self.setLayout(qtw.QVBoxLayout())
         self.setWindowTitle("NASA Tweet Generator")
+        self.setWindowIcon(qtg.QIcon("src/assets/rocket.png"))
 
         output_label = qtw.QLabel("")
         output_label.setFont(qtg.QFont("Helvetica", 10))

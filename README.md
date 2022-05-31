@@ -7,10 +7,12 @@
 </p>
 
 #
+
 <p align="center">
     <img src="src/assets/example.PNG?raw=true" alt="Example of Program">
 </p>
 
+#
 
 # Technologies used
 

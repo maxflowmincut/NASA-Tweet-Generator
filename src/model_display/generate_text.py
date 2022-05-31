@@ -15,7 +15,7 @@ def sample(preds, temperature=1.0):
     return np.argmax(probas)
 
 
-def generate_w_seed(sentence, diversity, model, input_size):
+def generate_from_seed(sentence, diversity, model, input_size):
     '''Generates seed from model'''
 
     char_indices = {' ': 0, '!': 1, '"': 2, '#': 3, '$': 4, '%': 5, '&': 6, "'": 7, '(': 8, ')': 9, '*': 10,
@@ -57,6 +57,6 @@ def validate_text(text):
 def generate(seed, diversity=0.4, path="src/model_display/model.h5", input_size=40):
     model = keras.models.load_model(path)
     seed = validate_seed(seed, input_size)
-    text = generate_w_seed(seed, diversity, model, input_size)
+    text = generate_from_seed(seed, diversity, model, input_size)
     text = validate_text(text)
     return text

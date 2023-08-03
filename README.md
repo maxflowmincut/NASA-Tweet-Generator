@@ -30,7 +30,7 @@
 
 # Contributing 💡
 
-If you would like to help contribute please don't hesitate to open an [pull request](https://github.com/imaadf/NASA-Tweet-Generator/pulls) or [issue](https://github.com/imaadf/NASA-Tweet-Generator/issues).
+If you would like to help contribute please don't hesitate to open an [pull request](https://github.com/imaad-f/NASA-Tweet-Generator/pulls) or [issue](https://github.com/imaad-f/NASA-Tweet-Generator/issues).
 
 # License 📄
 
